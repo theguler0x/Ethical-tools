@@ -1,0 +1,16 @@
+Sublist3r, OSINT kullanan web sitelerinin alt alanlarını numaralandırmak için tasarlanmış bir python aracıdır.
+Sızma testi yapanların ve hata avcılarının hedefledikleri alan için alt alan adları toplamasına ve toplamasına yardımcı olur.
+Sublist3r, Google, Yahoo, Bing, Baidu ve Ask gibi birçok arama motorunu kullanarak alt alanları numaralandırır.
+Sublist3r ayrıca Netcraft, Virustotal, ThreatCrowd, DNSdumpster ve ReverseDNS kullanarak alt alanları numaralandırır.
+
+subbrute, geliştirilmiş bir kelime listesi ile bruteforce kullanarak daha fazla alt alan bulma olasılığını artırmak için Sublist3r ile entegre edildi.
+Kredi, subbrute'un yazarı olan TheRook'a gider.
+
+
+Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT. 
+It helps penetration testers and bug hunters collect and gather subdomains for the domain they are targeting. 
+Sublist3r enumerates subdomains using many search engines such as Google, Yahoo, Bing, Baidu and Ask. 
+Sublist3r also enumerates subdomains using Netcraft, Virustotal, ThreatCrowd, DNSdumpster and ReverseDNS.
+
+subbrute was integrated with Sublist3r to increase the possibility of finding more subdomains using bruteforce with an improved wordlist. 
+The credit goes to TheRook who is the author of subbrute.
